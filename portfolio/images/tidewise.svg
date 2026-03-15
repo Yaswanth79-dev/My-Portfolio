@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="380" viewBox="0 0 660 380">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c3557;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a1f3d;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="660" height="380" fill="url(#bg)"/>
+  <!-- Stars -->
+  <circle cx="80"  cy="40"  r="2" fill="white" opacity="0.6"/>
+  <circle cx="200" cy="20"  r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="450" cy="55"  r="2" fill="white" opacity="0.4"/>
+  <circle cx="580" cy="30"  r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="120" cy="90"  r="1" fill="white" opacity="0.4"/>
+  <circle cx="520" cy="75"  r="2" fill="white" opacity="0.5"/>
+  <!-- Waves -->
+  <path d="M0 260 Q165 230 330 260 Q495 290 660 260 L660 380 L0 380 Z" fill="#1a5f8a" opacity="0.5"/>
+  <path d="M0 285 Q165 255 330 285 Q495 315 660 285 L660 380 L0 380 Z" fill="#0d4a70" opacity="0.7"/>
+  <path d="M0 310 Q165 280 330 310 Q495 340 660 310 L660 380 L0 380 Z" fill="#083a5a" opacity="0.9"/>
+  <!-- Boat -->
+  <path d="M295 230 L365 230 L355 250 L305 250 Z" fill="#f97316" opacity="0.9"/>
+  <line x1="330" y1="180" x2="330" y2="232" stroke="white" stroke-width="2.5"/>
+  <path d="M330 185 L365 215 L330 215 Z" fill="white" opacity="0.8"/>
+  <!-- Alert icon -->
+  <circle cx="490" cy="130" r="32" fill="#ef444440" stroke="#ef4444" stroke-width="2"/>
+  <text x="490" y="140" font-size="22" text-anchor="middle" fill="white">⚠️</text>
+  <!-- Label -->
+  <rect x="185" y="292" width="290" height="54" rx="12" fill="#ffffff18"/>
+  <text x="330" y="320" font-size="15" font-weight="bold" text-anchor="middle" fill="white" font-family="sans-serif">TideWise</text>
+  <text x="330" y="338" font-size="11" text-anchor="middle" fill="#ffffffaa" font-family="sans-serif">Fishermen Safety Alert System</text>
+</svg>

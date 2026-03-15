@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="380" viewBox="0 0 660 380">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7b1a1a;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#b84a00;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="660" height="380" fill="url(#bg)"/>
+  <!-- Decorative circles -->
+  <circle cx="80"  cy="80"  r="120" fill="#ffffff05"/>
+  <circle cx="580" cy="300" r="140" fill="#ffffff05"/>
+  <!-- Plate -->
+  <circle cx="330" cy="170" r="110" fill="#ffffff12" stroke="#ffffff30" stroke-width="2"/>
+  <circle cx="330" cy="170" r="85"  fill="#ffffff08"/>
+  <!-- Food emoji -->
+  <text x="330" y="190" font-size="60" text-anchor="middle" fill="white">🍱</text>
+  <!-- Dots pattern -->
+  <circle cx="160" cy="290" r="5" fill="#ffffff20"/>
+  <circle cx="190" cy="270" r="4" fill="#ffffff15"/>
+  <circle cx="480" cy="60"  r="5" fill="#ffffff20"/>
+  <circle cx="510" cy="85"  r="4" fill="#ffffff15"/>
+  <!-- Label -->
+  <rect x="185" y="292" width="290" height="54" rx="12" fill="#ffffff18"/>
+  <text x="330" y="320" font-size="15" font-weight="bold" text-anchor="middle" fill="white" font-family="sans-serif">HomePlate</text>
+  <text x="330" y="338" font-size="11" text-anchor="middle" fill="#ffffffaa" font-family="sans-serif">Community Food Delivery Platform</text>
+</svg>
